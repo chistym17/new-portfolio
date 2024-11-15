@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Project 1",
+    "description": "A brief description of project 1. This explains what the project does and what technologies were used.",
+    "image": "/project1.jpg",
+    "github": "https://github.com/yourusername/project1",
+    "live": "https://project1-demo.com"
+  },
+  {
+    "name": "Project 2",
+    "description": "A brief description of project 2. This explains what the project does and what technologies were used.",
+    "image": "/project2.jpg",
+    "github": "https://github.com/yourusername/project2",
+    "live": "https://project2-demo.com"
+  }
+] 
